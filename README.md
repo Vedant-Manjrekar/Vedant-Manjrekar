@@ -2,10 +2,10 @@
 
 <div style="margin: 0 1rem">
 
-<h3 align="left"> 🖐🏼 Hi, my name is Vedant Manjrekar. </h3>
-  
 <img width="350" align="right" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
   
+<h3 align="left"> 🖐🏼 Hi, my name is Vedant Manjrekar. </h3>
+    
 <h3 align="left"> 👨‍💻 I am an aspiring Web-Developer. </h3>
 
 <h3 align="left"> 🔭 I’m currently working on WhatsApp Clone. </h3>
