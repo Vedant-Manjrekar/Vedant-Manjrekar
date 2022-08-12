@@ -1,32 +1,25 @@
-<h1 style="text-align:center" >ABOUT ME</h1>
-
-<div style="display: flex; justify-content: space-evenly; align-items:center">
+<h1 align="center" >ABOUT ME</h1>
 
 <div style="margin: 0 1rem">
 
-#### 🖐🏼 Hi, my name is Vedant Manjrekar.
+<h3 align="left"> 🖐🏼 Hi, my name is Vedant Manjrekar. </h3>
+  
+<img width="350" align="right" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
+  
+<h3 align="left"> 👨‍💻 I am an aspiring Web-Developer. </h3>
 
-#### 👨‍💻 I am an aspiring Web-Developer.
+<h3 align="left"> 🔭 I’m currently working on WhatsApp Clone. </h3>
 
-#### 🔭 I’m currently working on WhatsApp Clone.
+<h3 align="left"> 🌱 I’m currently learning ReactJs, Java and DSA. </h3>
 
-#### 🌱 I’m currently learning ReactJs, Java and DSA.
-
-#### 💬 Ask me about Web-Development, ReactJS, NodeJS.
-
-#### 📫 Reach Me at vedant.28m@gmail.com .
-
-</div>
-
-<div style="height:15.5rem">
-  <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
-</div>
-
-</div>
+<h3 align="left"> 💬 Ask me about Web-Development, ReactJS, NodeJS. </h3>
 
 <br>
-
-<h1 style="text-align:center " > 💬 SOCIALS</h1>
+<br>
+<br>
+  
+<h1 align="center" > REACH ME AT</h1>
+<br>
 <div align="center" style="display:flex; justify-content:center; align-items:center" >
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
@@ -34,7 +27,9 @@
 
 </div>
 
-<h1 style="text-align:center " > ⚙ TECH STACK / LANGUAGES I SPEAK</h1>
+<h1 style="text-align:center " align="center" > ⚙ TECH STACK / LANGUAGES I SPEAK</h1>
+  
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
