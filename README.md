@@ -13,19 +13,13 @@
 <h3 align="left"> 🌱 I’m currently learning ReactJs, Java and DSA. </h3>
 
 <h3 align="left"> 💬 Ask me about Web-Development, ReactJS, NodeJS. </h3>
-
-<br>
-<br>
-<br>
   
-<h1 align="center" > REACH ME AT</h1>
+<h3 align="left"> 🚀 Reach Me <img height="30" href="https://twitter.com/vedstwt" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1660291327~hmac=91febd2ac49bb4cb65f8bbfc3cfe9845" />
+<img height="30" href="https://www.linkedin.com/in/vedant-manjrekar-705707222/" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1660291504~hmac=a2aa7fbc254d698c56af1a3fa69616ca" />
+
 <br>
-<div align="center" style="display:flex; justify-content:center; align-items:center" >
-
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
-
-</div>
+<br>
+<br>
 
 <h1 style="text-align:center " align="center" > ⚙ TECH STACK / LANGUAGES I SPEAK</h1>
   
@@ -39,6 +33,9 @@
 
 <div style= "display: flex; justify-content:center " align="center">
 
+<br>
+<br>
+  
 <div style="margin:2rem">
 
 ![](https://github-readme-stats.vercel.app/api?username=Vedant-Manjrekar&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br />
