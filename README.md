@@ -1,4 +1,4 @@
-<h1 align="center" >ABOUT ME</h1>
+<h1 align="center" >📃 ABOUT ME</h1>
 
 <div style="margin: 0 1rem">
 
@@ -14,7 +14,9 @@
 
 <h3 align="left"> 💬 Ask me about Web-Development, ReactJS, NodeJS. </h3>
   
-<h3 align="left"> 🚀 Reach Me <img height="30" href="https://twitter.com/vedstwt" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1660291327~hmac=91febd2ac49bb4cb65f8bbfc3cfe9845" />
+<h3 align="left"> 🚀 Reach Me: <b> vedant.28m@gmail.com </b> </h3>
+  
+<h3 align="left"> ⭐️ Socials:  <img height="30" href="https://twitter.com/vedstwt" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1660291327~hmac=91febd2ac49bb4cb65f8bbfc3cfe9845" />
 <img height="30" href="https://www.linkedin.com/in/vedant-manjrekar-705707222/" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1660291504~hmac=a2aa7fbc254d698c56af1a3fa69616ca" />
 
 <br>
