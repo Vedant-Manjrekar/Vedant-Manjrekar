@@ -6,7 +6,7 @@
   
 <h3 align="left"> 🖐🏼 Hi, my name is Vedant Manjrekar. </h3>
     
-<h3 align="left"> 👨‍💻 I am an aspiring Web-Developer. </h3>
+<h3 align="left"> 👨‍💻 I am an aspiring Web-Developer and Open-Source Enthusiast. </h3>
 
 <h3 align="left"> 🔭 I’m currently working on WhatsApp Clone. </h3>
 
