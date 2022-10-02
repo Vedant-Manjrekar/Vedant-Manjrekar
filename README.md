@@ -8,7 +8,7 @@
     
 <h3 align="left"> 👨‍💻 I am an aspiring Web-Developer and Open-Source Enthusiast. </h3>
 
-<h3 align="left"> 🔭 I’m currently working on WhatsApp Clone. </h3>
+<h3 align="left"> 🔭 I’m currently working on Open-Source Projects. </h3>
 
 <h3 align="left"> 🌱 I’m currently learning ReactJs, Java and DSA. </h3>
 
