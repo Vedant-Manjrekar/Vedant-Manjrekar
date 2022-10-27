@@ -37,6 +37,11 @@
 <br>
 <br>
   
+# 📌 HOLOPIN BADGES.
+[![@vedant28m's Holopin board](https://holopin.me/vedant28m)](https://holopin.io/@vedant28m)
+  
+# 📊 STATS
+  
 <div style="margin:2rem">
 
 ![](https://github-readme-stats.vercel.app/api?username=Vedant-Manjrekar&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br />
