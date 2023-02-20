@@ -10,7 +10,7 @@
 
 <h3 align="left"> 🔭 I’m currently working on Open-Source Projects. </h3>
 
-<h3 align="left"> 🌱 I’m currently learning ReactJs, Java and DSA. </h3>
+<h3 align="left"> 🌱 I’m currently learning Next.JS. </h3>
 
 <h3 align="left"> 💬 Ask me about Web-Development, ReactJS, NodeJS. </h3>
   
