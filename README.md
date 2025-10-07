@@ -16,7 +16,7 @@
   
 <h3 align="left"> 🚀 Reach Me: <b> vedant.28m@gmail.com </b> </h3>
 
-### ⭐️ Socials: [Twitter](https://twitter.com/vedstwt) [LinkedIn](https://www.linkedin.com/in/vedant-manjrekar-705707222/)
+### ⭐️ Socials: [LinkedIn](https://www.linkedin.com/in/vedant-manjrekar-705707222/)
 
 <br>
 <br>
