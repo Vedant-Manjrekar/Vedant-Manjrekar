@@ -1,61 +1,45 @@
-<h1 align="center" >📃 ABOUT ME</h1>
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/ecfda191-162b-4601-93f8-74d9c4de6345"
+    alt="Banner"
+    width="100%"
+  />
+</p>
 
-<div style="margin: 0 1rem">
-
-<img width="350" align="right" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
-  
-<h3 align="left"> 🖐🏼 Hi, my name is Vedant Manjrekar. </h3>
-    
-<h3 align="left"> 👨‍💻 I am an aspiring Web-Developer and Open-Source Enthusiast. </h3>
-
-<h3 align="left"> 🔭 I’m currently working on Open-Source Projects. </h3>
-
-<h3 align="left"> 🌱 I’m currently learning Next.JS. </h3>
-
-<h3 align="left"> 💬 Ask me about Web-Development, ReactJS, NodeJS. </h3>
-  
-<h3 align="left"> 🚀 Reach Me: <b> vedant.28m@gmail.com </b> </h3>
-
-### ⭐️ Socials: [LinkedIn](https://www.linkedin.com/in/vedant-manjrekar-705707222/)
-
-<br>
-<br>
-<br>
-
-<h1 style="text-align:center " align="center" > ⚙ TECH STACK / LANGUAGES I SPEAK</h1>
-  
-<br>
+<h1 align="center">Vedant Manjrekar</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,markdown,vercel,heroku,firebase,express,mui,nodejs,redux,sass,tailwind,mongodb,figma&perline=8" />
+  <strong>Software Engineer</strong> · Full Stack Developer
+</p>
+
+<p align="center">
+  Building scalable web applications with React, Spring Boot, Node.js and PostgreSQL.
+  <br/>
+  Currently exploring AI Engineering, System Design and Developer Tools.
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vedant-manjrekar-705707222/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://hashnode.com/@YOUR_HASHNODE">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://YOUR_PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:vedant.28m@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<div style= "display: flex; justify-content:center " align="center">
+<br/>
 
-<br>
-<br>
-  
-# 📊 STATS
-  
-<div style="margin:2rem">
-
-![](https://github-readme-stats.vercel.app/api?username=Vedant-Manjrekar&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br />
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Manjrekar&theme=chartreuse-dark&hide_border=false)<br />
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Manjrekar&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-</div>
-<br>
-
-<div align="center">
-
-## ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-[![](https://visitcount.itsvg.in/api?id=Vedant-Manjrekar&icon=5&color=6)](https://visitcount.itsvg.in)
-
-</div>
+<p align="center">
+────────────────────────────────────────
+</p>
