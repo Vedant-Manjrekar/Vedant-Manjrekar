@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:vedant-manjrekar">
+  <a href="mailto:vedantmanjrekar05@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
