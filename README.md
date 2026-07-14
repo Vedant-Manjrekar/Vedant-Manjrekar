@@ -37,9 +37,6 @@
 <br>
 <br>
   
-# 📌 HOLOPIN BADGES.
-[![@vedant28m's Holopin board](https://holopin.me/vedant28m)](https://holopin.io/@vedant28m)
-  
 # 📊 STATS
   
 <div style="margin:2rem">
