@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Building scalable web applications with React, Spring Boot, Node.js and PostgreSQL.
+  Designing and building full-stack applications with modern web technologies while exploring AI and scalable backend systems.
   <br/>
   Currently exploring AI Engineering, System Design and Developer Tools.
 </p>
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://hashnode.com/@YOUR_HASHNODE">
+  <a href="https://hashnode.com/@vedant-manjrekar">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white"/>
   </a>
   &nbsp;
@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:vedant.28m@gmail.com">
+  <a href="mailto:vedant-manjrekar">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
